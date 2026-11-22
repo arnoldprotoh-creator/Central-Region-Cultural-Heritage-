@@ -1,0 +1,46 @@
+NGWAO BOTSWANA — INTEGRATED PROJECT WEBSITE
+===========================================
+
+PROJECT OVERVIEW
+Ngwao Botswana is an educational website concept designed to showcase cultural, historical and natural heritage in Botswana's Central District, with special attention to the Tswapong area and Serowe. It also introduces selected heritage places elsewhere in Botswana.
+
+PURPOSE
+To present information about local heritage in an engaging, accessible format and encourage young people to learn about and respect the places, traditions and community knowledge that contribute to Botswana's identity.
+
+MAIN CONTENT
+1. Old Palapye (Phalatswe): historic settlement and surviving ruins connected with Bangwato history and Kgosi Khama III.
+2. Lecheng Pan: local landscape feature. The current visual is a broader regional satellite image, not a verified close-up of the pan; local verification and a specific photograph are recommended.
+3. Moremi Gorge: Tswapong landscape with waterfalls and cultural/spiritual importance to local communities.
+4. Khama Rhino Sanctuary: community-based wildlife conservation near Serowe.
+5. People and traditions: pottery, oral history, cultural performance and traditional leadership.
+6. Across Botswana: examples of wider cultural and natural heritage.
+
+DESIGN CHOICES
+- Forest green and earthy brown/clay colours communicate landscape, land and craft.
+- Cream backgrounds and restrained gold accents support readability.
+- A custom static SVG logo uses layered hills, a sun and a clay pot motif. It is not animated and is not a cartoon character.
+- Navigation is consistent across all pages and adapts to smaller screens.
+- Photographic images and descriptive alternative text support visual learning.
+- A Sources page credits information and photographs.
+
+TECHNOLOGY
+HTML5, CSS3 and a small JavaScript file. No build tools or installation are required. Open index.html in a browser. Google Fonts are requested online; system fonts remain available if offline.
+
+IMAGE STATUS AND LIMITATION
+Photographic images are currently loaded from Wikimedia Commons by URL and are not yet stored as local image files in this ZIP. They therefore require internet access and may not appear offline. The static logo and website code are stored locally. Before final submission, download the relevant image files where permitted, save them in assets/images, update image paths to local files, and check each attribution/licence. The Lecheng Pan image is regional satellite context only and should not be labelled as a direct photograph of the pan.
+
+RESEARCH REFERENCES
+- Botswana Tourism Organisation. “Tswapong Hills.” https://botswanatourism.co.bw/explore/tswapong-hills
+- UNESCO World Heritage Centre. “Tswapong Hills Cultural Landscape.” https://whc.unesco.org/en/tentativelists/5560/
+- Government of Botswana. “Guidelines for planners” (includes an Old Palapye/Phalatswe monument reference). https://www.gov.bw/sites/default/files/2020-03/Guidelines%20-%20Planners.pdf
+- Wikimedia Commons image pages and licence information are listed in sources.html.
+
+SUBMISSION CHECKLIST
+[ ] Extract the ZIP into one folder and open index.html.
+[ ] Check every page and the mobile navigation.
+[ ] Test all images while connected to the internet.
+[ ] For offline presentation, save licensed photo files in assets/images and update image paths.
+[ ] Add a verified Lecheng Pan photograph if available, with permission and credit.
+[ ] Check historical details with reliable sources and, where possible, local community members.
+[ ] Obtain consent before recording or publishing interviews, ceremonies or culturally sensitive knowledge.
+[ ] Keep the source and image-credit page with the website.
